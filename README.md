@@ -19,7 +19,7 @@ The NRO’s Homebrew Menu metadata is:
 
 ## Required game data
 
-You must provide your own `Mega Man W.pck` from a legitimate installation of Mega Man W. It is not included in this repository.
+You must provide your own `Mega Man W.pck` from a legitimate installation of Mega Man W. It is not included in this repository. Download the original game from the official [Mega Man W download page](https://megamanw.com/download.html), then place its PCK beside the NRO as shown below.
 
 ## SD-card layout
 
