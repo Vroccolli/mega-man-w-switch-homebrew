@@ -1,0 +1,6 @@
+# The game resource pack is intentionally never published here.
+*.pck
+
+# Runtime logs are machine-specific diagnostics, not release files.
+logs/
+*.log
