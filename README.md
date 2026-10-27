@@ -2,6 +2,8 @@
 
 This repository contains the tested Switch homebrew runtime and its required support files. It does **not** include the Mega Man W game resource pack.
 
+## ⚠️ Levels do load — they just take some time to load. The game is not frozen.
+
 ## Included
 
 ```text
